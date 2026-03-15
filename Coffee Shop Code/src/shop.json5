@@ -1,0 +1,8 @@
+{
+  shop_type: "Coffee Shop",
+  messages: {
+    welcome: [
+      "Welcome to the {}"
+    ]
+  }
+}
