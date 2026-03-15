@@ -1,6 +1,6 @@
 {
-  "shop_type": "Coffee Shop",
-  "bank_loan": {
+  "shop type": "Coffee Shop",
+  "bank loan": {
     "min": 30000,
     "max": 50000
   },

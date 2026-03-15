@@ -1,0 +1,14 @@
+{
+  "welcome message": [
+    "Welcome to the shop, would you like",
+    "Groceries?",
+    "Machines?",
+    "Decor?",
+    "or to leave?"
+  ],
+
+  "groceries": {
+    "beans": {"price": 15, "coffees": 20},
+    "milk": {}
+  }
+}
