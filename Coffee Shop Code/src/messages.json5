@@ -1,0 +1,12 @@
+{
+  "welcome": [
+    "Welcome to ",
+    "Start? y or n",
+    "You got a bank loan for ",
+    "The buildings you can choose from are:",
+    "Off the clock commands:",
+    "/store to open the store to buy supplies",
+    "/make to make items",
+    "/menu to edit the menu and it's prices"
+  ]
+}

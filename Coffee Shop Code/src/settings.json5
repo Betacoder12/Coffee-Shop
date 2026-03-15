@@ -1,0 +1,10 @@
+{
+  "shop_type": "Coffee Shop",
+  "bank_loan": {
+    "min": 30000,
+    "max": 50000
+  },
+  "buildings": [
+    {"price": 2000, "sqft": 100, "patrons": 20}
+  ],
+}
